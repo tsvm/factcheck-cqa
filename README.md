@@ -8,9 +8,9 @@ According to several requests and because of recent problems with Codalab, we ar
 
 The data here was collected as part of a shared task in SemEval 2019 (http://alt.qcri.org/semeval2019/). 
 
-Here is the competition website in Codalab: https://competitions.codalab.org/competitions/20022
-
 Here is our task description paper: https://arxiv.org/abs/1906.01727
+
+Here is the competition website in Codalab: https://competitions.codalab.org/competitions/20022. Unfortunately, Codalab had problems recently and most of the information about the competition was lost. Therefore, we put the leaderboard from the competition outside of it [here](https://docs.google.com/spreadsheets/d/1DZmu9ponVbRpQE7h6_kJNpMzK0-PWy4zQGyjKZBRav8/edit?usp=sharing).
 
 
 ## Contacts
