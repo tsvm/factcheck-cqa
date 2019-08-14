@@ -10,6 +10,8 @@ The data here was collected as part of a shared task in SemEval 2019 (http://alt
 
 Here is the competition website in Codalab: https://competitions.codalab.org/competitions/20022
 
+Here is our task description paper: https://arxiv.org/abs/1906.01727
+
 
 ## Contacts
 
